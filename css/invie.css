@@ -56,7 +56,7 @@ body {
 }
 
 .portada {
-    background-image: url('../img/background.png');
+    background-image: url('../img/background.jpg');
     color: white;
     padding: 20px;
 }
@@ -142,7 +142,7 @@ body {
 }
 
 .contacto a {
-    color: white;
+    color: gray;
     text-decoration: none;
     margin: 10px 10px 10px 0;
 }
@@ -155,7 +155,7 @@ body {
 .formulario {
     display: flex;
     width: 400px;
-    color: white;
+    color: gray;
     padding: 50px 10px;
 }
 
